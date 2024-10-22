@@ -1,0 +1,17 @@
+C:\Users\Дима\Source\Repos\application-code-development\Desktop\bin\Debug\Desktop.exe.config
+C:\Users\Дима\Source\Repos\application-code-development\Desktop\bin\Debug\Desktop.exe
+C:\Users\Дима\Source\Repos\application-code-development\Desktop\bin\Debug\Desktop.pdb
+C:\Users\Дима\Source\Repos\application-code-development\Desktop\obj\Debug\Desktop.csproj.AssemblyReference.cache
+C:\Users\Дима\Source\Repos\application-code-development\Desktop\obj\Debug\MainWindow.g.cs
+C:\Users\Дима\Source\Repos\application-code-development\Desktop\obj\Debug\App.g.cs
+C:\Users\Дима\Source\Repos\application-code-development\Desktop\obj\Debug\Desktop_MarkupCompile.cache
+C:\Users\Дима\Source\Repos\application-code-development\Desktop\obj\Debug\Desktop_MarkupCompile.lref
+C:\Users\Дима\Source\Repos\application-code-development\Desktop\obj\Debug\MainWindow.baml
+C:\Users\Дима\Source\Repos\application-code-development\Desktop\obj\Debug\Desktop.g.resources
+C:\Users\Дима\Source\Repos\application-code-development\Desktop\obj\Debug\Desktop.Properties.Resources.resources
+C:\Users\Дима\Source\Repos\application-code-development\Desktop\obj\Debug\Desktop.csproj.GenerateResource.cache
+C:\Users\Дима\Source\Repos\application-code-development\Desktop\obj\Debug\Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Source\Repos\application-code-development\Desktop\obj\Debug\Desktop.exe
+C:\Users\Дима\Source\Repos\application-code-development\Desktop\obj\Debug\Desktop.pdb
+C:\Users\Дима\source\repos\application-code-development\Desktop\obj\Debug\Window1.g.cs
+C:\Users\Дима\source\repos\application-code-development\Desktop\obj\Debug\Window1.baml

@@ -24,5 +24,29 @@ namespace Desktop
         {
             InitializeComponent();
         }
+
+        private void MailTextBox_GotFocus(object sender, RoutedEventArgs e)
+        {
+            MailTextBox.Text = "";
+            MailTextBox.Foreground = System.Windows.Media.Brushes.Black;
+        }
+
+        private void PasswordTextBox_GotFocus(object sender, RoutedEventArgs e)
+        {
+            PasswordTextBox.Text = "";
+            PasswordTextBox.Foreground = System.Windows.Media.Brushes.Black;
+        }
+
+        private void LoginButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void tpFormRegistrationButton_Click(object sender, RoutedEventArgs e)
+        {
+            Window1 registrationWindow = new Window1();
+            registrationWindow.ShowDialog();
+        }
+
     }
 }
