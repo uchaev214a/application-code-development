@@ -13,7 +13,7 @@
         <Label Content="Пароль" HorizontalAlignment="Left" Margin="400,265,0,0" VerticalAlignment="Top" FontSize="20" RenderTransformOrigin="0.089,0.52"/>
         <Label Content="Welcome back" HorizontalAlignment="Left" Margin="400,60,0,0" VerticalAlignment="Top" FontSize="24" RenderTransformOrigin="0.536,0.096"/>
         <TextBox x:Name="NewMailTextBox" HorizontalAlignment="Left" Margin="407,227,0,0" TextWrapping="Wrap" Text="Введите почту" VerticalAlignment="Top" Width="228" Height="26" FontSize="18" BorderBrush="#FFE2E2E2" Foreground="#FFB0B0B0" GotFocus="NewMailTextBox_GotFocus"/>
-        <Image HorizontalAlignment="Left" Height="160" Margin="45,60,0,0" VerticalAlignment="Top" Width="151" Source="/2024-10-09_14-34-32.png" RenderTransformOrigin="0.689,0.264"/>
+        <Image HorizontalAlignment="Left" Height="160" Margin="71,60,0,0" VerticalAlignment="Top" Width="151" Source="/2024-10-09_14-34-32.png" RenderTransformOrigin="0.689,0.264"/>
         <TextBox x:Name="NewPasswordTextBox" HorizontalAlignment="Left" Margin="407,307,0,0" TextWrapping="Wrap" Text="Ввелите пароль" VerticalAlignment="Top" Width="228" FontSize="18" BorderBrush="#FFE2E2E2" Foreground="#FFB0B0B0" GotFocus="NewPasswordTextBox_GotFocus"/>
         <Label Content="Имя пользователя" HorizontalAlignment="Left" Margin="400,99,0,0" VerticalAlignment="Top" Height="44" Width="158" FontSize="20"/>
         <TextBox x:Name="LoginTextBox" HorizontalAlignment="Left" Margin="407,148,0,0" TextWrapping="Wrap" Text="Введите имя пользователя" VerticalAlignment="Top" Width="228" Height="26" FontSize="18" BorderBrush="#FFE2E2E2" Foreground="#FFB0B0B0" GotFocus="LoginTextBox_GotFocus_1"/>
